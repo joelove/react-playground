@@ -4,8 +4,12 @@
   "description": "Let's learn some React.js!",
   "main": "entry.js",
   "dependencies": {
+    "body-parser": "^1.14.1",
+    "cors": "^2.7.1",
     "es6-promise": "^3.0.2",
+    "express": "^4.13.3",
     "isomorphic-fetch": "^2.2.0",
+    "nedb": "^1.2.1",
     "react": "^0.14.0",
     "react-dom": "^0.14.0"
   },
